@@ -1,13 +1,11 @@
 ## 👋 Hi, I am Bash.
 
-Your introduction ...
-
-Your introduction ...
+I am an undergraduate college student that is majoring in computer science.
 
 Here is my Homepage your home page url</td>
 
 
-## 📊 Bash's GitHub
+## Bash's GitHub
 
 |Languages |Page views|Stats|
 |--------------|------------|------------|
