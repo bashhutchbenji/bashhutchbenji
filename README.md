@@ -1,6 +1,8 @@
 ## 👋 Hi, I am Bash.
 
 I am an undergraduate college student that is majoring in computer science.
+My academic intrest include programming, cybersecurity, and artificial intelligence.
+I am currnet studying Human Computer Interaction and Platform Technologies.
 
 Here is my Homepage your home page url</td>
 
